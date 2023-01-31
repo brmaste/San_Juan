@@ -67,21 +67,37 @@ library(trend)
 San Juan Area SNOTEL sites:
 
 Beartown	327 *Original* 4/18/2005
+
 Cascade #2	389 *Morrisey* 6/18/2004
+
 Cumbres Trestle	431 *Oyler -> Morrisey* 6/8/2005
+
 Idarado	538 *Morrisey* 7/12/2004
+
 Lone Cone 	589 *Oyler -> Morrisey* 6/22/2005
+
 Middle Creek	624 *Morrisey* 6/26/2006
+
 Mineral Creek	629 *Oyler ?? -> Morrisey* 6/22/2004
+
 Molas Lake	632 *NSCE-Morrisey, Bias-Original*  10/2/2003
+
 Red Mountain Pass	713 *Morrisey* 8/18/2004
+
 Scotch Creek	739 *Morrisey* 6/15/2004
+
 Slumgullion	762 *Morrisey* 6/26/2006
+
 Spud Mountain	780 *Morrisey* 6/28/2004
+
 Stump Lakes	797 *Morrisey* 7/22/2005
+
 Upper Rio Grande	839 *Oyler -> Morrisey* 5/26/2004 *Why is this in red?
+
 Upper San Juan	840 *Morrisey* 4/7/2004
+
 Vallecito	843 *Morrisey* 7/22/2005
+
 Wolf Creek Summit	874 *Morrisey* 7/12/2004
 
 
