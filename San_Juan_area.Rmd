@@ -1,5 +1,5 @@
 ---
-title: "San_Juan_area"
+title: "Rio Grande"
 author: "Brian"
 date: "1/30/2023"
 output:
@@ -15,6 +15,8 @@ editor_options:
 *This work is very preliminary as I get back into the coding swing of things. Data wrangling and figure generation will be done via R, but the rest of the project will be done using good ol' microsoft products. This is just an entry point into data crunching and should by no means be considered a final product.*
 
 *Also, I'm not great at this but whatever. I could automate this, but I'll figure that out shortly!*
+
+**Need to update figures & analyze sites for seasonal trends**
 
 # Methodology
 
